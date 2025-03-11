@@ -3,4 +3,4 @@
 	url = https://github.com/Significant-Gravitas/Auto-GPT-test-cassettes
 [submodule "autogpt_platform/supabase"]
 	path = autogpt_platform/supabase
-	url = https://github.com/supabase/supabase.git
+	url = git@github.com:supabase/supabase.git
